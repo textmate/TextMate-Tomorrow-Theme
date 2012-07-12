@@ -101,6 +101,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>List</string>
+			<key>scope</key>
+			<string>markup.list</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#000206</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Operator, Misc</string>
 			<key>scope</key>
 			<string>keyword.operator, constant.other.color</string>
