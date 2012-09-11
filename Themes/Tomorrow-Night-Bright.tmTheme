@@ -6,6 +6,8 @@
 	<string>http://chriskempson.com</string>
 	<key>name</key>
 	<string>Tomorrow Night - Bright</string>
+	<key>semanticClass</key>
+	<string>theme.dark.tomorrow.bright</string>
 	<key>settings</key>
 	<array>
 		<dict>

@@ -6,6 +6,8 @@
 	<string>http://chriskempson.com</string>
 	<key>name</key>
 	<string>Tomorrow Night - Eighties</string>
+	<key>semanticClass</key>
+	<string>theme.dark.tomorrow.eighties</string>
 	<key>settings</key>
 	<array>
 		<dict>
